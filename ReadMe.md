@@ -71,19 +71,15 @@ GROQ_API_KEY=votre_cle_api_ici
 
 ## 🎥 Démonstration vidéo
 
-[![Voir la démo](https://drive.google.com/file/d/1oh6nSQMurXREaARY1Tc1VrA8xrXX8x_e/view?usp=sharing)
+Découvrez une démonstration complète du projet en action :
 
-> Cliquez sur le badge ci-dessus pour voir une démonstration complète du projet en action.
+**[▶️ Voir la vidéo de démonstration sur Google Drive](https://drive.google.com/file/d/1oh6nSQMurXREaARY1Tc1VrA8xrXX8x_e/view?usp=sharing)**
 
-### Aperçu de la démo
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/VOTRE_ID_VIDEO/view">
-    <img src="https://drive.google.com/thumbnail?id=VOTRE_ID_VIDEO&sz=w1000" alt="Aperçu vidéo démo" width="600"/>
-  </a>
-  <br>
-  <em>Cliquez sur l'image pour voir la vidéo complète</em>
-</div>
+La vidéo vous montre :
+- L'installation et la configuration du projet
+- L'exécution du script avec l'API Groq
+- Le streaming des réponses en temps réel
+- Des exemples d'utilisation pratiques
 
 ## 🎮 Utilisation
 
@@ -177,7 +173,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
-Nelson Galley- www.linkedin.com/in/nelson-galley
+Nelson Galley - www.linkedin.com/in/nelson-galley
 
 Lien du projet : https://github.com/Nels-G/groq-chat-example/
 
