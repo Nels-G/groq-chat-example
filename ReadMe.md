@@ -71,7 +71,7 @@ GROQ_API_KEY=votre_cle_api_ici
 
 ## 🎥 Démonstration vidéo
 
-[![Voir la démo](https://img.shields.io/badge/▶️_Voir_la_démo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/VOTRE_ID_VIDEO/preview)
+[![Voir la démo](https://drive.google.com/file/d/1oh6nSQMurXREaARY1Tc1VrA8xrXX8x_e/view?usp=sharing)
 
 > Cliquez sur le badge ci-dessus pour voir une démonstration complète du projet en action.
 
