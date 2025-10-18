@@ -41,7 +41,9 @@ git clone https://github.com/votre-utilisateur/groq-chat-example.git
 cd groq-chat-example
 ```
 
-### 2. Créer un environnement virtuel (recommandé)
+### 2. (Optionnel) Créer un environnement virtuel
+
+Si vous souhaitez isoler les dépendances du projet :
 
 ```bash
 # Sur Windows
@@ -177,9 +179,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
-Votre Nom - [@votre_twitter](https://twitter.com/votre_twitter)
+Nelson Galley - www.linkedin.com/in/nelson-galley
 
-Lien du projet : [https://github.com/votre-utilisateur/groq-chat-example](https://github.com/votre-utilisateur/groq-chat-example)
+Lien du projet : https://github.com/Nels-G/groq-chat-example
 
 ---
 
