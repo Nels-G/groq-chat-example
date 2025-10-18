@@ -177,9 +177,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
-Nelson Galley- [www.linkedin.com/in/nelson-galley]
+Nelson Galley- www.linkedin.com/in/nelson-galley
 
-Lien du projet : [https://github.com/Nels-G/groq-chat-example/]
+Lien du projet : https://github.com/Nels-G/groq-chat-example/
 
 ---
 
